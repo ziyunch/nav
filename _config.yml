@@ -69,6 +69,9 @@ bookmarks:
   - name: OpenTable
     url: https://www.opentable.com/
     favicon: opentable.gif
+  - name: 生蚝地图
+    url: https://boston.eater.com/maps/dollar-oysters-boston/
+    favicon: eater.ico
 
   - category: 购物参考
   - name: Slickdeals
@@ -469,6 +472,31 @@ bookmarks:
   - name: Hemingway Home & Museum
     url: https://www.hemingwayhome.com/
     favicon: hemingwayhome.jpeg
+
+  - category: 灯塔
+  - name: US Lighthouse Society
+    url: https://uslhs.org/
+    favicon: uslhs.ico
+  - name: American Lighthouse Foundation
+    url: http://www.lighthousefoundation.org/
+    favicon: lighthousefoundation.ico
+  - name: USLHS活动
+    url: https://uslhs.org/fun/lighthouse-festivals-events/
+    favicon: uslhs.ico
+  - name: 新英格兰
+    url: http://www.newenglandlighthouses.net/
+    favicon: lighthouse.ico
+  - name: 麻省
+    url: https://www.visit-massachusetts.com/state/lighthouses/
+  - name: 缅因
+    url: http://www.lighthousefoundation.org/maine-open-lighthouse-day/
+    favicon: lighthousefoundation.ico
+  - name: 新泽西
+    url: http://lhchallengenj.org/challMap.php
+    favicon: lhchallengenj.ico
+  - name: 马里兰
+    url: https://cheslights.org/maryland-lighthouse-challenge/
+    favicon: cheslights.ico
 
   - category: 纸牌
   - name: Theory11
