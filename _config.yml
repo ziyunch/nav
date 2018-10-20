@@ -1,12 +1,15 @@
 src_dir: src
 public_dir: docs
 
-title: Ziyunch's Online Bookmark
+title: Ziyunch's Online Bookmark Collection
 
 bookmarks:
   - name: 我的博客
     url: https://blindwith.science/
     favicon: ziyunch.ico
+  - name: Gmail
+    url: https://mail.google.com/
+    favicon: gmail.ico
   - name: Inbox
     url: https://inbox.google.com/
     favicon: inbox.png
@@ -16,6 +19,9 @@ bookmarks:
   - name: Workflowy
     url: https://workflowy.com/
     favicon: workflowy.ico
+  - name: Youtube
+    url: https://www.youtube.com/
+    favicon: youtube-32.png
 
   - category: 工作相关
   - name: Linkedin
@@ -50,37 +56,47 @@ bookmarks:
     url: https://www.guokr.com/
     favicon: guokr.ico
 
-  - category: 技术社区
-  - name: 少数派
-    url: https://sspai.com/
-    favicon: sspai.ico
-  - name: 爱范儿
-    url: https://www.ifanr.com/
-    favicon: ifanr.ico
-  - name: V2EX
-    url: https://v2ex.com/
-    favicon: v2ex.png
-  - name: TheVerge
-    url: https://www.theverge.com/
-    favicon: theverge.ico
-  - name: Engadget
-    url: https://cn.engadget.com/
-    favicon: engadget-160.png
-
-  - category: 烧菜厨具
+  - category: 烧菜觅食
   - name: 下厨房
     url: http://www.xiachufang.com/
     favicon: xiachufang.ico
+  - name: 梅玺阁
+    url: http://www.yuleshow.com/?cat=257/
+    favicon: yuleshow.ico
+  - name: Yelp
+    url: https://www.yelp.com/
+    favicon: yelp.ico
+  - name: OpenTable
+    url: https://www.opentable.com/
+    favicon: opentable.gif
 
-  - category: 电影读书
+  - category: 购物参考
+  - name: Slickdeals
+    url: https://slickdeals.net/
+    favicon: slickdeals.ico
+  - name: Craigslist
+    url: https://boston.craigslist.org/
+    favicon: craigslist.ico
+  - name: Amazon
+    url: https://www.amazon.com/
+    favicon: amazon.ico
+  - name: Ebay
+    url: https://www.ebay.com/
+    favicon: ebay.ico
+  - name: Etsy
+    url: https://www.etsy.com/
+    favicon: etsy.ico
+  - name: 北美省钱快报
+    url: https://cn.dealmoon.com/
+    favicon: dealmoon.ico
+  - name: 英国红领巾
+    url: https://www.honglingjin.co.uk/
+    favicon: honglingjin.ico
+
+  - category: 读书电影
   - name: 豆瓣
     url: https://www.douban.com/
     favicon: douban.ico
-  - name: Letterboxd
-    url: https://letterboxd.com/
-    favicon: letterboxd.ico
-  - name: CriticsTop10
-    url: https://criticstop10.com/
   - name: 开放文学
     url: http://open-lit.com/
     favicon: open-lit.ico
@@ -117,34 +133,38 @@ bookmarks:
     favicon: feynmanlectures.ico
   - name: 记忆的性别
     url: https://gailhershatter.sites.ucsc.edu/translation/
+  - name: Letterboxd
+    url: https://letterboxd.com/
+    favicon: letterboxd.ico
+  - name: Critics Top 10
+    url: https://criticstop10.com/
+  - name: 迷影网
+    url: http://www.cinepedia.cn/
 
-  - category: 博物馆
-  - name: Museum of Fine Art
-    url: https://www.mfa.org/
-    favicon: mfa.ico
-  - name: Museum of Science
-    url: https://www.mos.org/
-    favicon: mos.png
-  - name: Isabella Gardner Museum
-    url: https://www.gardnermuseum.org/
-    favicon: gardnermuseum-192.jpg
-  - name: The Met
-    url: https://metmuseum.org/
-    favicon: metmuseum.ico
+  - category: 技术社区
+  - name: 少数派
+    url: https://sspai.com/
+    favicon: sspai.ico
+  - name: 爱范儿
+    url: https://www.ifanr.com/
+    favicon: ifanr.ico
+  - name: V2EX
+    url: https://v2ex.com/
+    favicon: v2ex.png
+  - name: The Verge
+    url: https://www.theverge.com/
+    favicon: theverge.ico
+  - name: Engadget
+    url: https://cn.engadget.com/
+    favicon: engadget-160.png
 
-  - category: 购物参考
-  - name: Slickdeals
-    url: https://slickdeals.net/
-    favicon: slickdeals.ico
-  - name: Craigslist
-    url: https://boston.craigslist.org/
-    favicon: craigslist.ico
-  - name: 北美省钱快报
-    url: https://cn.dealmoon.com/
-    favicon: dealmoon.ico
-  - name: 英国红领巾
-    url: https://www.honglingjin.co.uk/
-    favicon: honglingjin.ico
+  - category: 实用工具
+  - name: FontAwesome
+    url: https://fontawesome.com/
+    favicon: fontawesome.ico
+  - name: Color Generator
+    url: https://coolors.co/
+    favicon: coolors.png
 
   - category: 数码外设
   - name: 数字尾巴
@@ -168,7 +188,7 @@ bookmarks:
   - name: Mobile01
     url: https://www.mobile01.com/
     favicon: mobile01.ico
-  - name: RAMAWorks
+  - name: RAMA Works
     url: https://ramaworks.store/
     favicon: rama-32.png
   - name: OLKB
@@ -179,8 +199,6 @@ bookmarks:
   - name: Dwarf-Factory
     url: https://www.dwarf-factory.com/
     favicon: dwarf-factory.ico
-  - name: AviationTag
-    url: https://www.aviationtag.com/
   - name: 文具病
     url: http://www.stationeria.net/
 
@@ -226,10 +244,10 @@ bookmarks:
   - name: 任天堂
     url: https://www.nintendo.com/
     favicon: nintendo.ico
-  - name: AmiiboDatabase
+  - name: Amiibo Database
     url: https://amiibo.life/
     favicon: amiibo.ico
-  - name: 任饭
+  - name: 任饭的博客
     url: http://www.mariozelda.com/
     favicon: mariozeldalogo-32.png
   - name: 奸笑社
@@ -256,17 +274,17 @@ bookmarks:
     favicon: myplasticheart.ico
   - name: Brosmind
     url: http://www.brosmind.com/
-  - name: SadSalesMan
+  - name: Sad Sales Man
     url: https://www.sadsalesman.com/
-  - name: ScottCShop
+  - name: Scott C
     url: https://thescottcshop.com/
     favicon: thescottcshop.jp2
-  - name: HiddenFortress
+  - name: Hidden Fortress
     url: http://www.hiddenfortressmanila.com/
     favicon: hiddenfortress.ico
   - name: 2PetalRose
     url: https://2petalrose.bigcartel.com/
-  - name: UnboxIndustries
+  - name: Unbox Industries
     url: http://store.unboxindustries.info/
   - name: PoPaganda
     url: https://popaganda.myshopify.com/
@@ -293,13 +311,13 @@ bookmarks:
   - name: Danner
     url: https://www.danner.com/
     favicon: danner.ico
-  - name: CampBrand
+  - name: Camp Brand
     url: https://campbrandgoods.com/
     favicon: campbrandgoods-32.png
-  - name: SalmonSisters
+  - name: Salmon Sisters
     url: https://aksalmonsisters.com/
     favicon: aksalmonsisters-32.png
-  - name: UnitedbyBlue
+  - name: United by Blue
     url: https://unitedbyblue.com/
     favicon: unitedbyblue-32.png
   - name: BackPackers
@@ -309,10 +327,20 @@ bookmarks:
     url: https://emalco.com/shop/
     favicon: emalco.png
 
+  - category: 文字摄影
+  - name: 杉本博司
+    url: https://www.sugimotohiroshi.com/photography/
+    favicon: sugimotohiroshi.ico
+  - name: Ken Liu
+    url: http://kenliu.name/
+    favicon: kenliu.ico
+
   - category: 设计产品
   - name: Tom Dixon
     url: https://www.tomdixon.net/
     favicon: tomdixon.png
+  - name: AviationTag
+    url: https://www.aviationtag.com/
   - name: Umbra
     url: http://www.umbra.com/
     favicon: umbra.ico
@@ -328,12 +356,119 @@ bookmarks:
   - name: Koromiko
     url: https://koromiko.com/
     favicon: koromiko.png
-  - name: ArtandArticle
+  - name: Art and Article
     url: https://www.artandarticle.com/
     favicon: artandarticle.ico
-  - name: JoeDoucet
+  - name: Joe Doucet
     url: http://joedoucet.com/
     favicon: joedoucet.jpeg
+
+  - category: 博物馆
+  - name: 「大波士顿」
+  - name: Museum of Fine Art
+    url: https://www.mfa.org/
+    favicon: mfa.ico
+  - name: Museum of Science
+    url: https://www.mos.org/
+    favicon: mos.png
+  - name: Isabella Gardner Museum
+    url: https://www.gardnermuseum.org/
+    favicon: gardnermuseum-192.jpg
+  - name: Institute of Contemporary Art
+    url: https://www.icaboston.org/
+    favicon: icaboston.png
+  - name: Harvard Museum of Natural History
+    url: https://hmnh.harvard.edu/
+    favicon: hmnh.gif
+  - name: MIT Museum
+    url: https://mitmuseum.mit.edu/
+    favicon: mit.ico
+  - name: Peabody Essex Museum
+    url: https://www.pem.org/
+    favicon: pem.ico
+  - name: Salem Witch Museum
+    url: https://salemwitchmuseum.com/
+    favicon: salemwitchmuseum.jpeg
+  - name: Boston Museum Map
+    url: https://www.boston.com/culture/arts/2017/05/04/use-this-map-to-visit-the-boston-areas-many-museums/
+    favicon: boston.ico
+  - name: Portland Museum of Art
+    url: https://www.portlandmuseum.org/
+    favicon: portlandmuseum.ico
+  - name: Yale Peabody Museum
+    url: https://peabody.yale.edu/
+    favicon: yalepeabody.ico
+  - name: 「纽约」
+  - name: The Met
+    url: https://metmuseum.org/
+    favicon: metmuseum.ico
+  - name: MoMA
+    url: https://www.moma.org/
+    favicon: moma.ico
+  - name: MoMA PS1
+    url: https://momaps1.org/
+    favicon: momaps1.ico
+  - name: Guggenheim
+    url: https://www.guggenheim.org/
+    favicon: guggenheim.jpg
+  - name: Whitney Museum of American Art
+    url: https://whitney.org/
+    favicon: whitney.ico
+  - name: Frick Collection
+    url: https://www.frick.org/
+    favicon: frick.ico
+  - name: Neue Galerie
+    url: https://www.neuegalerie.org/
+    favicon: neuegalerie.ico
+  - name: Rubin Museum of Art
+    url: http://rubinmuseum.org/
+    favicon: rubinmuseum.png
+  - name: American Museum of Natural History
+    url: https://www.amnh.org/
+    favicon: amnh.ico
+  - name: Cooper Hewitt
+    url: https://www.cooperhewitt.org/
+    favicon: cooperhewitt.png
+  - name: Noguchi Museum
+    url: https://www.noguchi.org/
+    favicon: noguchi.png
+  - name: 「费城」
+  - name: Philadelphia Museum of Art
+    url: https://www.philamuseum.org
+    favicon: philamuseum.ico
+  - name: Franklin Institute
+    url: https://www.fi.edu/
+    favicon: fi.png
+  - name: Penn Museum
+    url: https://www.penn.museum/
+    favicon: pennmuseum.ico
+  - name: 「华盛顿」
+  - name: National Museum of Natural History
+    url: https://naturalhistory.si.edu/
+    favicon: naturalhistorysi.ico
+  - name: National Museum of Afican American History & Culture
+    url: https://nmaahc.si.edu/
+    favicon: nmaahcsi.ico
+  - name: National Air and Space Museum
+    url: https://airandspace.si.edu/
+    favicon: airandspacesi.ico
+  - name: 「芝加哥」
+  - name: Art Institute Chicago
+    url: http://www.artic.edu/
+    favicon: artic-196.png
+  - name: Field Museum
+    url: https://www.fieldmuseum.org/
+    favicon: fieldmuseum.png
+  - name: MCA Chicago
+    url: https://mcachicago.org/
+    favicon: mcachicago.png
+  - name: 「其他」
+  - name: High Museum of Art
+    url: https://high.org/
+    favicon: high.png
+  - name: Hemingway Home & Museum
+    url: https://www.hemingwayhome.com/
+    favicon: hemingwayhome.jpeg
 
   - category: 纸牌
   - name: Theory11
@@ -342,12 +477,12 @@ bookmarks:
   - name: 52Aces
     url: http://52aces.de/
     favicon: 52aces.ico
-  - name: PlayingArts
+  - name: Playing Arts
     url: https://playingarts.com/
     favicon: playingarts.ico
-  - name: TheTypeDeck
+  - name: The Type Deck
     url: http://thetypedeck.com/
     favicon: thetypedeck.ico
-  - name: TheDesignDeck
+  - name: The Design Deck
     url: http://www.forrestgoods.com/
     favicon: forrestgoods.png

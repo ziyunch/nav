@@ -1,6 +1,6 @@
-# The personal online bookmarks
+# My personal online bookmark collection
 
-Live demo: http://knowsome.science/
+Live demo: https://blindwith.science/nav/
 
 ## Getting started
 
