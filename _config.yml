@@ -1,179 +1,353 @@
 src_dir: src
 public_dir: docs
 
-title: xcatliu's personal front page
+title: Ziyunch's Online Bookmark
 
 bookmarks:
+  - name: 我的博客
+    url: https://blindwith.science/
+    favicon: ziyunch.ico
   - name: Inbox
     url: https://inbox.google.com/
     favicon: inbox.png
-  - name: V2EX
-    url: https://v2ex.com/
-    favicon: v2ex.png
   - name: GitHub
-    url: https://github.com/xcatliu
+    url: https://github.com/ziyunch
     favicon: github.ico
+  - name: Workflowy
+    url: https://workflowy.com/
+    favicon: workflowy.ico
 
-  - category: 技术资讯
-  - name: Hacker News
-    url: https://news.ycombinator.com/
-    favicon: hacker-news.ico
-  - name: Echo JS
-    url: http://www.echojs.com/
-    favicon: echo-js.ico
-  - name: 掘金
-    url: https://juejin.im/
-    favicon: juejin.ico
-  - name: 开发者头条
-    url: https://toutiao.io/
-    favicon: toutiao.ico
-  - name: GitHub Trending
-    url: https://github.com/trending
-    favicon: github.ico
-  - name: 干货集中营
-    url: http://gank.io/
-  - name: Product Hunt
-    url: https://www.producthunt.com/
-    favicon: product-hunt.ico
-  - name: reddit
+  - category: 工作相关
+  - name: Linkedin
+    url: https://www.linkedin.com/
+    favicon: linkedin.ico
+  - name: Indeed
+    url: https://www.indeed.com/
+    favicon: indeed.ico
+  - name: Glassdoor
+    url: https://www.glassdoor.com/
+    favicon: glassdoor.ico
+  - name: 一亩三分地
+    url: https://www.1point3acres.com/bbs/
+    favicon: 1point3acres.ico
+
+  - category: 知识问答
+  - name: Reddit
     url: https://www.reddit.com/
     favicon: reddit.ico
-  - name: 前端周刊
-    url: http://www.feweekly.com/
-    favicon: feweekly.ico
-  - name: Startup News
-    url: http://news.dbanotes.net/
-    favicon: startup-news.ico
-
-  - category: 技术社区
-  - name: CNode
-    url: https://cnodejs.org/
-    favicon: cnode.png
-  - name: SegmentFault
-    url: https://segmentfault.com/
-    favicon: segmentfault.ico
-  - name: 黑客派
-    url: https://hacpai.com/
-    favicon: hacpai.png
-  - name: 光谷社区
-    url: http://www.guanggoo.com/
-    favicon: guanggoo.ico
-  - name: Ruby China
-    url: https://ruby-china.org/
-    favicon: ruby-china.png
-
-  - category: 社交网络
+  - name: Quora
+    url: https://www.quora.com/
+    favicon: quora.png
   - name: 知乎
     url: https://www.zhihu.com/
     favicon: zhihu.ico
-  - name: Twitter
-    url: https://twitter.com/
-    favicon: twitter.ico
-  - name: 微博
-    url: http://weibo.com/xcatliu/home
-    favicon: weibo.ico
-  - name: 微信网页版
-    url: https://wx.qq.com/
-    favicon: wechat.ico
-  
-  - category: 工具
-  - name: CodePen
-    url: https://codepen.io/pen/
-    favicon: codepen.ico
-  - name: Unicode 字符百科
-    url: https://unicode-table.com/cn/
-    favicon: unicode.png
-  - name: Online converter
-    url: http://image.online-convert.com/convert-to-png
-    favicon: online-converter.png
-  - name: HSL Color Picker
-    url: http://hslpicker.com/
-    favicon: hsl-color-picker.png
-  - name: favicon.ico Generator
-    url: http://www.favicon.cc/
-    favicon: favicon-generator.ico
-  - name: Online Photo Editor
-    url: https://pixlr.com/editor/
-    favicon: online-photo-editor.png
-  - name: ASCIIFlow - 字符图
-    url: http://asciiflow.com/
-    favicon: asciiflow.png
-  - name: SVG-edit
-    url: https://github.com/SVG-Edit/svgedit
-    favicon: svg-edit.png
-  - name: Painter - 画图板
-    url: http://painter.crick.wang/
-  - name: Sketchpad - 画图板
-    url: https://sketch.io/sketchpad/?lang=zh
-    favicon: sketchpad.png
-  - name: 多个地点 ping 服务器
-    url: http://ping.chinaz.com/
-  - name: Unsplash It - 随机图片服务
-    url: https://unsplash.it/
-    favicon: unsplash-it.ico
-  - name: UZER.ME - 在线 PS
-    url: https://uzer.me/
-    favicon: uzer-me.ico
-  - name: nodei.co - npm 状态图
-    url: https://nodei.co/
-    favicon: npm.png
-  - name: Mobile-Friendly Test
-    url: https://search.google.com/search-console/mobile-friendly
-    favicon: mobile-friendly-test.png
-  - name: RegExr
-    url: http://regexr.com/
-    favicon: regexr.ico
-  - name: 在线屏幕测试
-    url: http://pingmu.zh-ang.com/
-  - name: 域名商价格对比
-    favicon: domcomp.png
-    url: https://www.domcomp.com/
-  - name: TinyPNG
-    favicon: tinypng.png
-    url: https://tinypng.com/
-
-  - category: 博客
-  - name: Xcat Liu's Blog
-    url: http://blog.xcatliu.com/
-    favicon: xcatliu.ico
+  - name: TED
+    url: https://www.ted.com/
+    favicon: ted.ico
   - name: Matrix67
     url: http://www.matrix67.com/blog/
-  - name: 王垠 - 当然我在扯淡
-    url: http://www.yinwang.org/
-    favicon: yinwang.jpg
-  - name: 水八口记 - 在日本工作的博客爱好者
-    url: https://blog.shuiba.co/archive
-    favicon: shuibaco.ico
-  - name: 卜卜口 - 可能是世界最快博客
-    url: http://mouto.org/#!home
-    favicon: mouto.jpg
-  
-  - category: 文章收藏
-  - name: WebCore Rendering - 深入理解 css
-    url: https://webkit.org/blog/114/webcore-rendering-i-the-basics/
-  - name: 图说设计模式
-    url: https://design-patterns.readthedocs.io/zh_CN/latest/index.html
+  - name: 果壳
+    url: https://www.guokr.com/
+    favicon: guokr.ico
 
-  - category: 网站管理
-  - name: Name.com
-    url: https://www.name.com/account/domain
-    favicon: name.png
-  - name: Google Analytics
-    url: https://analytics.google.com/analytics/web/
-    favicon: google-analytics.png
+  - category: 技术社区
+  - name: 少数派
+    url: https://sspai.com/
+    favicon: sspai.ico
+  - name: 爱范儿
+    url: https://www.ifanr.com/
+    favicon: ifanr.ico
+  - name: V2EX
+    url: https://v2ex.com/
+    favicon: v2ex.png
+  - name: TheVerge
+    url: https://www.theverge.com/
+    favicon: theverge.ico
+  - name: Engadget
+    url: https://cn.engadget.com/
+    favicon: engadget-160.png
 
-  - category: 其他导航站
-  - name: 创造狮
-    url: http://chuangzaoshi.com/
-    favicon: chuangzaoshi.png
+  - category: 烧菜厨具
+  - name: 下厨房
+    url: http://www.xiachufang.com/
+    favicon: xiachufang.ico
 
-  - category: 未分类
-  - name: Avatars.io - 获取社交网站上的头像
-    url: https://www.avatars.io/
-  - name: HTML5 Demos and Examples
-    url: http://html5demos.com/
-  - name: Gauges - Real Time Website Analytics
-    url: http://get.gaug.es/
-    favicon: gauges.png
+  - category: 电影读书
+  - name: 豆瓣
+    url: https://www.douban.com/
+    favicon: douban.ico
+  - name: Letterboxd
+    url: https://letterboxd.com/
+    favicon: letterboxd.ico
+  - name: CriticsTop10
+    url: https://criticstop10.com/
+  - name: 开放文学
+    url: http://open-lit.com/
+    favicon: open-lit.ico
+  - name: 书格
+    url: https://shuge.org/
+    favicon: shuge.ico
+  - name: 寐语扫描版古籍
+    url: http://kzeng.info/books/
+    favicon: kzeng.ico
+  - name: 台湾图书馆古籍
+    url: http://rbook2.ncl.edu.tw/
+  - name: 中国哲学书电子化计划
+    url: https://ctext.org/zh/
+  - name: 搜韵
+    url: https://sou-yun.com/
+    favicon: sou-yun.bmp
+  - name: Vol.moe
+    url: https://vol.moe/
+    favicon: volmoe.ico
+  - name: 好读
+    url: http://www.haodoo.net/
+    favicon: haodoo.ico
+  - name: 我的小书屋
+    url: http://mebook.cc/
+    favicon: mebook.ico
+  - name: LibGen
+    url: http://gen.lib.rus.ec/
+    favicon: libgen.ico
+  - name: 莎翁全集
+    url: http://shakespeare.mit.edu/
+    favicon: shakespeare.bmp
+  - name: 费曼讲义
+    url: http://www.feynmanlectures.caltech.edu/
+    favicon: feynmanlectures.ico
+  - name: 记忆的性别
+    url: https://gailhershatter.sites.ucsc.edu/translation/
 
+  - category: 博物馆
+  - name: Museum of Fine Art
+    url: https://www.mfa.org/
+    favicon: mfa.ico
+  - name: Museum of Science
+    url: https://www.mos.org/
+    favicon: mos.png
+  - name: Isabella Gardner Museum
+    url: https://www.gardnermuseum.org/
+    favicon: gardnermuseum-192.jpg
+  - name: The Met
+    url: https://metmuseum.org/
+    favicon: metmuseum.ico
 
+  - category: 购物参考
+  - name: Slickdeals
+    url: https://slickdeals.net/
+    favicon: slickdeals.ico
+  - name: Craigslist
+    url: https://boston.craigslist.org/
+    favicon: craigslist.ico
+  - name: 北美省钱快报
+    url: https://cn.dealmoon.com/
+    favicon: dealmoon.ico
+  - name: 英国红领巾
+    url: https://www.honglingjin.co.uk/
+    favicon: honglingjin.ico
+
+  - category: 数码外设
+  - name: 数字尾巴
+    url: http://www.dgtle.com/
+    favicon: dgtle.ico
+  - name: 装备前线
+    url: https://www.zfrontier.com/
+    favicon: zfrontier.ico
+  - name: MassDrop
+    url: https://www.massdrop.com/
+    favicon: massdrop.ico
+  - name: Chiphell
+    url: https://www.chiphell.com/
+    favicon: chiphell.ico
+  - name: 什么值得买
+    url: https://www.smzdm.com/
+    favicon: smzdm.ico
+  - name: Knewone
+    url: https://knewone.com/
+    favicon: knewone.ico
+  - name: Mobile01
+    url: https://www.mobile01.com/
+    favicon: mobile01.ico
+  - name: RAMAWorks
+    url: https://ramaworks.store/
+    favicon: rama-32.png
+  - name: OLKB
+    url: https://olkb.com/
+    favicon: olkb.ico
+  - name: GeekKeys
+    url: http://www.geekkeys.com/
+  - name: Dwarf-Factory
+    url: https://www.dwarf-factory.com/
+    favicon: dwarf-factory.ico
+  - name: AviationTag
+    url: https://www.aviationtag.com/
+  - name: 文具病
+    url: http://www.stationeria.net/
+
+  - category: 二次元
+  - name: 哔哩哔哩
+    url: https://www.bilibili.com/
+    favicon: bilibili.ico
+  - name: bangumi
+    url: http://bgm.tv/
+    favicon: bangumi.ico
+  - name: ニコニコ
+    url: http://sp.nicovideo.jp/
+    favicon: niconico.ico
+  - name: Akross
+    url: http://www.akross.ru/index.cgi?l=e
+    favicon: akross.ico
+  - name: MyAnimeList
+    url: https://myanimelist.net/
+    favicon: myanimelist.png
+  - name: 比特客栈的文艺复兴
+    url: https://bitinn.net/
+    favicon: bitinn.ico
+  - name: VCB-Studio
+    url: https://vcb-s.com/
+    favicon: vcb-s.ico
+  - name: THX字幕组
+    url: https://www.zhengmianshang.me/
+  - name: 天使动漫
+    url: http://www.tsdm.me/
+  - name: A.I.R.nesSub
+    url: https://airu.us/
+
+  - category: 手办游戏
+  - name: 乐高
+    url: https://www.lego.com/
+    favicon: lego.ico
+  - name: Brickset
+    url: https://brickset.com/
+    favicon: brickset.ico
+  - name: Bricklink
+    url: https://www.bricklink.com/
+    favicon: bricklink.ico
+  - name: 任天堂
+    url: https://www.nintendo.com/
+    favicon: nintendo.ico
+  - name: AmiiboDatabase
+    url: https://amiibo.life/
+    favicon: amiibo.ico
+  - name: 任饭
+    url: http://www.mariozelda.com/
+    favicon: mariozeldalogo-32.png
+  - name: 奸笑社
+    url: https://www.goodsmile.info/en/
+    favicon: goodsmile.ico
+  - name: 植物少女园
+    url: http://shokuen.com/figure/index.html
+  - name: TsumTsum Database
+    url: https://www.tsumtsumcentral.com/
+  - name: Vinyl Database
+    url: http://www.allvinyls.com/
+    favicon: allvinyls.ico
+  - name: Kidrobot
+    url: https://www.kidrobot.com/
+    favicon: kidrobot-32.png
+  - name: MightyJaxx
+    url: https://mightyjaxx.rocks/
+    favicon: mightyjaxx.png
+  - name: FYE
+    url: https://www.fye.com/
+    favicon: fye.ico
+  - name: MyPlaticHeart
+    url: https://www.myplasticheart.com/
+    favicon: myplasticheart.ico
+  - name: Brosmind
+    url: http://www.brosmind.com/
+  - name: SadSalesMan
+    url: https://www.sadsalesman.com/
+  - name: ScottCShop
+    url: https://thescottcshop.com/
+    favicon: thescottcshop.jp2
+  - name: HiddenFortress
+    url: http://www.hiddenfortressmanila.com/
+    favicon: hiddenfortress.ico
+  - name: 2PetalRose
+    url: https://2petalrose.bigcartel.com/
+  - name: UnboxIndustries
+    url: http://store.unboxindustries.info/
+  - name: PoPaganda
+    url: https://popaganda.myshopify.com/
+
+  - category: 户外运动
+  - name: Rei
+    url: https://www.rei.com/
+    favicon: rei.ico
+  - name: Dicks
+    url: https://www.dickssportinggoods.com/
+    favicon: dickssportinggoods.ico
+  - name: BackCountry
+    url: https://www.backcountry.com/
+    favicon: backcountry.ico
+  - name: MooseJaw
+    url: https://www.moosejaw.com/
+    favicon: moosejaw.ico
+  - name: BestMade
+    url: https://www.bestmadeco.com/
+    favicon: bestmadeco.png
+  - name: Filson
+    url: https://www.filson.com/
+    favicon: filson.ico
+  - name: Danner
+    url: https://www.danner.com/
+    favicon: danner.ico
+  - name: CampBrand
+    url: https://campbrandgoods.com/
+    favicon: campbrandgoods-32.png
+  - name: SalmonSisters
+    url: https://aksalmonsisters.com/
+    favicon: aksalmonsisters-32.png
+  - name: UnitedbyBlue
+    url: https://unitedbyblue.com/
+    favicon: unitedbyblue-32.png
+  - name: BackPackers
+    url: https://backpackers.com/
+    favicon: backpackers.png
+  - name: Emalco
+    url: https://emalco.com/shop/
+    favicon: emalco.png
+
+  - category: 设计产品
+  - name: Tom Dixon
+    url: https://www.tomdixon.net/
+    favicon: tomdixon.png
+  - name: Umbra
+    url: http://www.umbra.com/
+    favicon: umbra.ico
+  - name: Artsy
+    url: https://www.artsy.net/
+    favicon: artsy.ico
+  - name: Antler's Gallery
+    url: http://www.antlersgallery.com/
+    favicon: antlersgallery.png
+  - name: Tictail
+    url: https://tictail.com/
+    favicon: tictail.ico
+  - name: Koromiko
+    url: https://koromiko.com/
+    favicon: koromiko.png
+  - name: ArtandArticle
+    url: https://www.artandarticle.com/
+    favicon: artandarticle.ico
+  - name: JoeDoucet
+    url: http://joedoucet.com/
+    favicon: joedoucet.jpeg
+
+  - category: 纸牌
+  - name: Theory11
+    url: https://www.theory11.com/
+    favicon: theory11.ico
+  - name: 52Aces
+    url: http://52aces.de/
+    favicon: 52aces.ico
+  - name: PlayingArts
+    url: https://playingarts.com/
+    favicon: playingarts.ico
+  - name: TheTypeDeck
+    url: http://thetypedeck.com/
+    favicon: thetypedeck.ico
+  - name: TheDesignDeck
+    url: http://www.forrestgoods.com/
+    favicon: forrestgoods.png

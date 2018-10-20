@@ -13,7 +13,7 @@ module.exports = ({ relativeToRoot, config }) => {
         <meta http-equiv="x-ua-compatible" content="ie=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0,
           maximum-scale=1.0, user-scalable=no"/>
-        
+
         <title>${config.title}</title>
 
         <link rel="shortcut icon" type="image/png" href="/favicon.ico"/>
@@ -81,7 +81,7 @@ module.exports = ({ relativeToRoot, config }) => {
     return `
       <footer class="text-center top-gap-big text-muted text-small">
         <hr/>
-        <p>Like this page? <a class="text-muted" href="https://github.com/xcatliu/123">Fork me</a> to create your own!</p>
+        <p>Inspired by <a class="text-muted" href="https://github.com/xcatliu/123">xcatliu</a>.</p>
       </footer>
     `;
   }
