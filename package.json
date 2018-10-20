@@ -1,7 +1,7 @@
 {
-  "name": "123",
+  "name": "nav",
   "version": "0.0.0",
-  "description": "The personal front page",
+  "description": "My personal online bookmark collection",
   "main": "index.js",
   "scripts": {
     "start": "pagic build -ws",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xcatliu/123.git"
+    "url": "git+https://github.com/ziyunch/nav.git"
   },
-  "author": "xcatliu <xcatliu@gmail.com>",
+  "author": "ziyunch <ziyunch@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/xcatliu/123/issues"
+    "url": "https://github.com/ziyunch/nav/issues"
   },
-  "homepage": "https://github.com/xcatliu/123#readme",
+  "homepage": "https://github.com/ziyunch/nav#readme",
   "devDependencies": {
     "eslint": "^3.19.0",
     "eslint-config-airbnb-base": "^11.1.3",
