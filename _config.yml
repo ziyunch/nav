@@ -235,6 +235,9 @@ bookmarks:
     url: https://airu.us/
 
   - category: 手办游戏
+  - name: 机核
+    url: https://www.gcores.com/
+    favicon: gcores.ico
   - name: 乐高
     url: https://www.lego.com/
     favicon: lego.ico
